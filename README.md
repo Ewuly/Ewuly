@@ -1,16 +1,16 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/ewan-hamon/">Ewan</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
-👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder<br>👨‍💻 Full-stack Developer at XRP Ledger Commons Residency
+👨‍🎓 Blockchain Engineering Student at ESILV Paris<br>🥇 Hackaton Participant & Web3 Builder
 
 <h2>🏆 Last hackathons:</h2>
 
 | Prize | Project | Date | Where |
 | --- | --- | --- | --- |
-| 🏆 8k5$ Prizes @ ETHGlobal Istanbul | [Sofilend](https://ethglobal.com/showcase/sofilend-fajeu) | Nov 2023 | [ETHGlobal Istanbul](https://ethglobal.com/) |
-| 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/mathisrgt/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
-| 🏆 3k$ Solo Project @ EPFL X Sui Foundation | [DeFraud](https://github.com/mathisrgt/defraud-hackathon) | Oct 2023 | [EPFL](https://www.epfl.ch/en/) |
-| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/mathisrgt/LugTrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
+| 🏆 Participant @ ETHGlobal London | [KlyckYC](https://ethglobal.com/showcase/klickyc-kp375) | March 2024 | [ETHGlobal London](https://ethglobal.com/) |
+| 💻 Prizes Winner @ ETH Denver | [Provehance](https://devfolio.co/projects/rrrr-0de5) | February 2024 | [ETHGlobal Istanbul](https://ethglobal.com/) |
+| 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/Ewuly/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
+| 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Ewuly/lugtrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
 
 <h2> 💻 Last tech used:</h2>
 
@@ -27,6 +27,6 @@
 
 | App | Link |
 | --- | --- |
-| LinkedIn | [Mathis Sergent](https://www.linkedin.com/in/mathis-sergent/) |
-| X (Twitter) | [xmsrgt](https://twitter.com/xmsrgt) |
-| Lens | [mathisrgt](https://hey.xyz/u/mathisrgt) |
+| LinkedIn | [Ewan Hamon](https://www.linkedin.com/in/ewan-hamon/) |
+| X (Twitter) | [@Ewan_hamon](https://twitter.com/Ewan_hamon) |
+| Telegram | [@ewanham](https://t.me/ewanham) |
