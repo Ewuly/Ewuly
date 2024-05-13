@@ -8,7 +8,7 @@
 | Prize | Project | Date | Where |
 | --- | --- | --- | --- |
 | 🏆 Participant @ ETHGlobal London | [KlyckYC](https://ethglobal.com/showcase/klickyc-kp375) | March 2024 | [ETHGlobal London](https://ethglobal.com/) |
-| 💻 Prizes Winner @ ETH Denver | [Provehance](https://devfolio.co/projects/rrrr-0de5) | February 2024 | [ETHGlobal Istanbul](https://ethglobal.com/) |
+| 💻 Prizes Winner @ ETH Denver | [Provehance](https://devfolio.co/projects/rrrr-0de5) | February 2024 | [ETH Denver](https://www.ethdenver.com/) |
 | 🥉 3rd @ KRYPTOSPHERE X 1inch X Near | [InsurancePlace](https://github.com/Ewuly/InsurancePlace) | Nov 2023 | [KRYPTOSPHERE DeVinci](https://twitter.com/KRYPTOSPHERE) |
 | 🥇 1st @ Paris Dauphine X 1inch | [LugTrack](https://github.com/Ewuly/lugtrack) | Sept 2023 | [Paris Dauphine](https://dauphine.psl.eu/)
 
